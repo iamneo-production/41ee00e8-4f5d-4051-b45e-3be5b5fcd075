@@ -1,0 +1,18 @@
+.exp{
+
+    overflow-y: auto;
+  scrollbar-width: 1px;
+  scrollbar-color: #999999 #F5F5F5;
+}
+
+.exp::-webkit-scrollbar {
+    width: 2px; /* Adjust the width as needed */
+  }
+  
+  .exp::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
+  .exp::-webkit-scrollbar-thumb {
+    background-color: transparent;
+  }
